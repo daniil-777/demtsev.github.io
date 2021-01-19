@@ -8,13 +8,13 @@ headless: true
 weight: 15
 title: Academic Template
 subtitle: ""
-active: true
+active: false
 design:
   columns: "1"
   background:
     gradient_start: DarkGreen
     gradient_end: ForestGreen
-    text_color_light: true
+    text_color_light: false
   spacing:
     padding:
       - 20px
@@ -22,4 +22,3 @@ design:
       - 20px
       - "0"
 ---
-Daniil
