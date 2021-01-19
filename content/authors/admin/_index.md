@@ -22,7 +22,7 @@ social:
     link: https://scholar.google.ru/citations?user=7-kkHVEAAAAJ&hl=ru
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/emtsevdaniil
+    link: https://www.linkedin.com/in/emtsevdaniil/
 organizations:
   - name: ETH Zurich
     url: https://ethz.ch/en.html
