@@ -28,12 +28,9 @@ organizations:
     url: https://ethz.ch/en.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: MSc in Computational Science and Engineering (Robotics)
+      institution: ETH Zurich
+      year: ""
     - course: BSc in Applied Physics and Mathematics
       institution: Moscow Institute of Physics and Technology
       year: 2004
