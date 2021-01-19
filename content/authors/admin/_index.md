@@ -34,7 +34,7 @@ education:
     - course: BSc in Applied Physics and Mathematics
       institution: Moscow Institute of Physics and Technology
       year: 2004
-email: ""
+email: demtsev@student.ethz.ch
 superuser: true
 highlight_name: false
 ---
