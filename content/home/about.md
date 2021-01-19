@@ -8,6 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: cambridge_mri.jpg
+    image: ""
+    image_darken: 0.5
 ---
 I am interested in deep learning
