@@ -13,7 +13,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: github
-    icon_pack: ai
+    icon_pack: far
     link: https://github.com/daniil-777
     display:
       header: true
