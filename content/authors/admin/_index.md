@@ -14,7 +14,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.ru/citations?user=7-kkHVEAAAAJ&hl=ru
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/emtsevdaniil
