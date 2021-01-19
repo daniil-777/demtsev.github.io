@@ -1,7 +1,7 @@
 ---
 title: Daniil Emtsev
 role: Msc student ETH Zurich
-avatar_filename: cambridge_mri.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
