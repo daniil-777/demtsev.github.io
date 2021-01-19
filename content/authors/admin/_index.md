@@ -12,17 +12,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: github
+    icon_pack: ai
+    link: https://github.com/daniil-777
+    display:
+      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.ru/citations?user=7-kkHVEAAAAJ&hl=ru
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/emtsevdaniil
-  - icon: github
-    icon_pack: ai
-    link: https://github.com/daniil-777
-    display:
-      header: false
 organizations:
   - name: ETH Zurich
     url: https://ethz.ch/en.html
