@@ -12,15 +12,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: ai
     link: https://github.com/daniil-777
+    display:
+      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
