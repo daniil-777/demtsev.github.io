@@ -38,6 +38,6 @@ email: demtsev@student.ethz.ch
 superuser: true
 highlight_name: false
 ---
-I am broadly interested in AI
+I am broadly interested in AI in bio and compute vision
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
