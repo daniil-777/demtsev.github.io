@@ -19,7 +19,7 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.ru/citations?user=7-kkHVEAAAAJ&hl=ru
+    link: https://scholar.google.com/citations?hl=ru&view_op=list_works&gmla=AJsN-F5O4_nDjPMCsaj3LarYMmpbdYdmRJOJR7JWM_iDjYexRM4n93MJA74rBsq91YvsnbM1m08NiTMud3Gp6Ikfq69_B8XA9BRJJxpM02AmK_uQshw3-VlrumeU7jrNJ2ehpX5hkkmE&user=JpLlnJEAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/emtsevdaniil/
