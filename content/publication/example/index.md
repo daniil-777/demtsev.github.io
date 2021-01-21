@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - StefanLionar
+  - "StefanLionar"
 doi: ""
 publication_short: In *WACV*
 abstract: Learning-based 3D reconstruction
