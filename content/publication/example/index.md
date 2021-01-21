@@ -4,7 +4,7 @@ publication_types:
   - "1"
   - "2"
 authors:
-  - admin
+  - [admin, StefanLionar]
 doi: ""
 publication_short: In *WACV*
 abstract: Learning-based 3D reconstruction 
@@ -37,7 +37,7 @@ url_poster: ""
 url_code: "https://github.com/dsvilarkovic/dynamic_plane_convolutional_onet"
 ---
 
-![itsc19_thumbnail](/publication/example/dpco.jpg "ITSC_19_thumbnail")
+<!-- ![itsc19_thumbnail](/publication/example/dpco.jpg "ITSC_19_thumbnail") -->
 
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
