@@ -89,7 +89,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "demtsev@student.ethz.ch"
-phone = "888 888 88 88"
+phone = "+79257973617"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -188,7 +188,7 @@ plugins_js  = []
 [publications]
   # Date format (refer to https://wowchemy.com/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  date_format = "January 2021"
 
   # Citation style ("apa" or "mla")
   citation_style = "apa"
