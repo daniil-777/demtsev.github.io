@@ -8,6 +8,7 @@ authors:
   - admin
 tags: []
 external_link: https://github.com/daniil-777/deep-gesture
+url_code: https://github.com/daniil-777/deep-gesture
 image:
   filename: featured.png
   focal_point: Smart
