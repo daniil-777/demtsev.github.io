@@ -16,9 +16,9 @@ categories: []
 slides: ""
 url_pdf: "https://arxiv.org/pdf/2011.05813.pdf"
 image:
-  caption: "Image credit: ![Example image](/static/media/dpco.png)"
+  caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 summary: DPCO.
 url_dataset: ""
 url_project: ""
