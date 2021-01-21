@@ -19,7 +19,7 @@ url_pdf: https://arxiv.org/pdf/2011.05813.pdf
 image:
   caption: scheme
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.jpg
 summary: DPCO.
 url_dataset: ""
