@@ -19,7 +19,7 @@ url_pdf: https://arxiv.org/pdf/2011.05813.pdf
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 summary: DPCO.
 url_dataset: ""
 url_project: ""
@@ -29,8 +29,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 publication: In *WACV conference*
-projects:
-  - example
+projects: []
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
