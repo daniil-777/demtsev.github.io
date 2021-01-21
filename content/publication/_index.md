@@ -1,14 +1,15 @@
 ---
 title: Publications
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
 view: 4
+
+# Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
-publication_types:
-  - "1"
-doi: https://arxiv.org/abs/1912.00043
-image:
-  filename: avatar.jpg
-summary: my image
-date: 2021-01-19T18:59:28.760Z
 ---
