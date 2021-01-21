@@ -21,18 +21,16 @@ tags:
   - DeepLearning
 categories: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2011.05813.pdf"
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: DPCO.
 url_dataset: ""
 url_project: ""
 url_source: "https://github.com/dsvilarkovic/dynamic_plane_convolutional_onet"
-url_video: ""
+url_video: "https://screencast-o-matic.com/watch/cYXOcaLKJz"
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -43,7 +41,7 @@ date: 2013-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/dsvilarkovic/dynamic_plane_convolutional_onet"
 ---
 
 {{% callout note %}}
