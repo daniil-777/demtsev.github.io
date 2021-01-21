@@ -1,29 +1,24 @@
 ---
-title: An example conference paper
+title: Dynamic Plane Convolutional Occupancy Networks
 publication_types:
   - "1"
   - "2"
 authors:
   - admin
 doi: ""
-publication_short: In *ICW*
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+publication_short: In *WACV*
+abstract: Learning-based 3D reconstruction using implicit neural representations has shown promising progress not only at the object level but also in more complicated scenes. In
+this paper, we propose Dynamic Plane Convolutional Occupancy Networks, a novel implicit representation pushing further the quality of 3D surface reconstruction. The input noisy point clouds are encoded into per-point features that are projected onto multiple 2D dynamic planes. A
+fully-connected network learns to predict plane parameters that best describe the shapes of objects or scenes. To further exploit translational equivariance, convolutional neural networks are applied to process the plane features. Our method shows superior performance in surface reconstruction from unoriented point clouds in ShapeNet as well as an indoor scene dataset. Moreover, we also provide interesting observations on the distribution of learned dynamic planes.
 draft: false
 featured: false
 tags:
-  - DeepLearning
+  - Deep Learning
 categories: []
 slides: ""
 url_pdf: "https://arxiv.org/pdf/2011.05813.pdf"
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Image credit: [**Unsplash**](https://github.com/daniil-777/demtsev.github.io/tree/master/static/media/dpco.png)"
   focal_point: ""
   preview_only: false
 summary: DPCO.
