@@ -18,7 +18,7 @@ url_pdf: "https://arxiv.org/pdf/2011.05813.pdf"
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 summary: DPCO.
 url_dataset: ""
 url_project: ""
