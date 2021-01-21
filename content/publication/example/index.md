@@ -7,9 +7,7 @@ authors:
   - admin
 doi: ""
 publication_short: In *WACV*
-abstract: Learning-based 3D reconstruction using implicit neural representations has shown promising progress not only at the object level but also in more complicated scenes. In
-this paper, we propose Dynamic Plane Convolutional Occupancy Networks, a novel implicit representation pushing further the quality of 3D surface reconstruction. The input noisy point clouds are encoded into per-point features that are projected onto multiple 2D dynamic planes. A
-fully-connected network learns to predict plane parameters that best describe the shapes of objects or scenes. To further exploit translational equivariance, convolutional neural networks are applied to process the plane features. Our method shows superior performance in surface reconstruction from unoriented point clouds in ShapeNet as well as an indoor scene dataset. Moreover, we also provide interesting observations on the distribution of learned dynamic planes.
+abstract: Learning-based 3D reconstruction 
 draft: false
 featured: false
 tags:
@@ -29,7 +27,7 @@ url_video: "https://screencast-o-matic.com/watch/cYXOcaLKJz"
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *Wowchemy Conference*
+publication: In *WACV conference*
 projects:
   - example
 date: 2013-07-01T00:00:00Z
