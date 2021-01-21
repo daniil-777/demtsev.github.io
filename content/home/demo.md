@@ -6,7 +6,7 @@ widget: blank
 widget_id: title
 headless: true
 weight: 15
-title: Academic Template
+title: Daniil Emtsev | Msc student @ ETH Zurich
 subtitle: ""
 active: false
 design:
