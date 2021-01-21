@@ -10,7 +10,7 @@ doi: ""
 publication_short: In *WACV*
 abstract: Learning-based 3D reconstruction
 draft: false
-featured: false
+featured: true
 tags:
   - Deep Learning
 categories: []
