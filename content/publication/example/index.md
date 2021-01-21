@@ -31,7 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-url_source: ""
+url_source: "https://github.com/dsvilarkovic/dynamic_plane_convolutional_onet"
 url_video: ""
 author_notes:
   - Equal contribution
