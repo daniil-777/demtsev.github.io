@@ -16,7 +16,7 @@ categories: []
 slides: ""
 url_pdf: "https://arxiv.org/pdf/2011.05813.pdf"
 image:
-  caption: "Image credit: [**Unsplash**](https://github.com/daniil-777/demtsev.github.io/tree/master/static/media/dpco.png)"
+  caption: "Image credit: ![Example image](/static/media/dpco.png)"
   focal_point: ""
   preview_only: false
 summary: DPCO.
