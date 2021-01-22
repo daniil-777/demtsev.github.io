@@ -6,7 +6,9 @@ draft: false
 featured: false
 authors:
   - admin
-tags: []
+tags:
+  - Deep Learning
+  - Computer Vision
 external_link: https://github.com/daniil-777/deep-gesture
 url_code: https://github.com/daniil-777/deep-gesture
 image:
