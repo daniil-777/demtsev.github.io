@@ -10,6 +10,8 @@ tags:
   - Deep Learning
   - Computer Vision
   - Transformers
+categories:
+  - Computer Vision
 external_link: https://github.com/daniil-777/deep-gesture
 image:
   filename: featured.png
