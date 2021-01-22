@@ -10,10 +10,10 @@ tags:
   - Deep Learning
   - Computer Vision
 external_link: https://github.com/daniil-777/deep-gesture
-url_code: https://github.com/daniil-777/deep-gesture
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
+url_code: https://github.com/daniil-777/deep-gesture
 ---
 Gesture recognition project
