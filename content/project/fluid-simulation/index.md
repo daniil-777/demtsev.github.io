@@ -12,5 +12,5 @@ image:
   preview_only: false
 ---
 url_code: https://github.com/daniil-777/fluidcg
-url_slides: "https://github.com/daniil-777/dynamic_geo_convolutional_onet/blob/main/media/presentation.pptx"
-url_video: "https://www.youtube.com/watch?v=h50qWqGD4Yk"
+url_slides: ""
+url_video: https://www.youtube.com/watch?v=h50qWqGD4Yk
