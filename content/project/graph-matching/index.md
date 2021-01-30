@@ -16,4 +16,8 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+url_code: https://github.com/daniil-777/graph-matching
+url_pdf: "https://github.com/daniil-777/graph-matching/blob/master/report/DeepLearning_Report.pdf"
+url_slides: ""
+url_video: ""
 ---
