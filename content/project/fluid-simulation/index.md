@@ -10,7 +10,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
----
 url_code: https://github.com/daniil-777/fluidcg
 url_slides: ""
 url_video: https://www.youtube.com/watch?v=h50qWqGD4Yk
+---
