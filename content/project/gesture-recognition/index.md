@@ -7,7 +7,7 @@ featured: false
 authors:
   - admin
 tags:
-  - Deep Learning, Computer Vision
+  - [Deep Learning, Computer Vision]
 categories:
   - Computer Vision
 external_link: https://github.com/daniil-777/deep-gesture
