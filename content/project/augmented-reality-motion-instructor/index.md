@@ -9,6 +9,8 @@ authors:
   - admin
 categories:
   - Augmented Reality
+tags:
+  - Augmented Reality
 external_link: https://github.com/janwww/motion-instructor
 image:
   filename: featured.png
