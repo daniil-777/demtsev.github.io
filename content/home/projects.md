@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Deep Learning
-    tag: Deep Learning, Computer Vision, Augmented Reality, Bioinformatics, NLP
+    # tag: [Deep Learning, Computer Vision, Augmented Reality, Bioinformatics, NLP]
   - name: Other
     tag: Demo
 
