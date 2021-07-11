@@ -26,9 +26,17 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: All
-    tag: '*'
+    tag: [Deep Learning, Computer Vision, Augmented Reality, Bioinformatics, NLP]
   - name: Deep Learning
-    # tag: [Deep Learning, Computer Vision, Augmented Reality, Bioinformatics, NLP]
+    tag: Deep Learning
+  - name: Computer Vision
+    tag: Computer Vision
+  - name: Bioinformatics
+    tag: Bioinformatics
+  - name: Augmented Reality
+    tag: Augmented Reality
+  - name: NLP
+    tag: NLP
   - name: Other
     tag: Demo
 
